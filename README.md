@@ -53,3 +53,4 @@ akash-resume/
 │
 ├─ index.html # Main HTML resume file
 ├─ README.md # Project description
+├─ Akash_Sangle_resume # screenshot of deploy resume Added
